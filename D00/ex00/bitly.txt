@@ -1,0 +1,3 @@
+tly est le raccourcisseur d’url le plus populaire. Rien d’étonnant puisqu’il offre de très nombreuses fonctionnalités pour organiser et contrôler facilement vos URL courts. Une fois vos liens créés, vous pourrez les suivre via un dashboard où vous pourrez rechercher, annoter, regrouper et classer vos liens courts à votre guise. Vous pourrez également rendre vos liens privés. Bitly offre bien sûr des fonctions de tracking habituelles pour suivre le nombre de clics et de sauvegardes d’un lien, l’origine des cliqueurs, le nombre de partages sur les réseaux sociaux, etc. Enfin, en adoptant son extension Chrome, vous pourrez créer et partager une url courte en un seul clic, depuis n’importe quel site.
+
+
